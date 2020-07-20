@@ -16,14 +16,14 @@
 To install / setup on your local environement
 * Clone the repository and open in your text editor
 * Create a virtual environment in the terminal using:
-`virtualenv env
-`
+`virtualenv env`
+* Activate the virtual environment using:
+`env\Scripts\activate`
 * Install the dependencies using:
-`pip install -r requirements.txt
-`
+`pip install -r requirements.txt`
 * Run the app using:
-`python backend.py
-`
+`python backend.py`
+
 ## Contact
 Created by [@Timmy-id](https://www.github.com/) - feel free to contact me!
 
